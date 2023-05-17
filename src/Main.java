@@ -3,6 +3,7 @@ public class Main {
         System.out.println("Helgffgddjdagghhlol world!");
         System.out.println("New mesgfggsage!");
         System.out.println("Helgffgddjggdjaggfdfdhhhddhlgol world!");
+        System.out.println("Helgffgddjggdjaggfdfdhhhddhlgol world!");
 
 
     }
