@@ -6,6 +6,6 @@ public class Main {
         System.out.println("Helgffgddjggdjaggfdfdhddhlgol world44!");
         System.out.println("Helgffgddjggdjaggfdfdhddhlgol world44!");
         System.out.println("Helgffgddjggdjaggfdfdhddhlgol world44!");
-        System.out.println("Helgffgddjggdjaggfdfdhddhlgol worlfffd44!");
+        System.out.println("Helgffgddjggdjaggfdfdhddhlgol worlffffd44!");
     }
 }
