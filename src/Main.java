@@ -1,12 +1,11 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Large file");
-        System.out.println("No file");
-
-
-
-
-        System.out.println("Helgffgddjggdagghfdddhggfdlol world!");
-        System.out.println("Helgffgddjggdjaggfdfdhddhlgol world!");
+        System.out.println("Helgffgddjdagghhlol world!");
+        System.out.println("Helgffgddjggdagghfdddhggfdlol world!dddd");
+        System.out.println("Helgffgddjggdjaggfdfdhddhlgol world4ddd4!");
+        System.out.println("Helgffgddjggdjaggfdfdhddhlgol world44!");
+        System.out.println("Helgffgddjggdjaggfdfdhddhlgol world44!");
+        System.out.println("Helgffgddjggdjaggfdfdhddhlgol world44!");
+        System.out.println("Helgffgddjggdjaggfdfdhddhlgol worlfffd44!");
     }
 }
