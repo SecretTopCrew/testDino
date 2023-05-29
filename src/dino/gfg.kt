@@ -1,0 +1,4 @@
+package dino
+
+class gfg {
+}
