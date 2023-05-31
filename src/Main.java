@@ -5,7 +5,7 @@ public class Main {
         System.out.println("Helgffgddjggdjaggfdfdhddhlgol world4ddd4!");
         System.out.println("Helgffgddjggdjaggfdfdhddhlgol world44!");
         System.out.println("Helgffgddjggdjfdfaggfdfdhddhlgol world44!");
-        System.out.println("Helgffgddjggdjaggfdfdhddhlgol world44!");
+        System.out.println("Helgffgddjddfggdjaggfdfdhddhlgol world44!");
         System.out.println("Helgffgddjggdjaggfdfdhddhlgol worlffffd44!");
     }
 }
