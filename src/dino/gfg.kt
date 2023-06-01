@@ -1,4 +1,4 @@
 package dino
 
-class gfg {
+class gggfg {
 }
