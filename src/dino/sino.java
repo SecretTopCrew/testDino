@@ -3,6 +3,6 @@ package dino;
 public class sino {
 
     public String toString() {
-        return "hefflcxzzdscxzxzcaddssdsadsadsaxzglgo{}";
+        return "hefflcxzzdsaddssdsadsadsaxzglgo{}";
     }
 }
