@@ -7,7 +7,7 @@ public class MainMaca {
             System.out.println("Hadsadelgffgddasdsazcxzxdjdagghhlol wosdsadsasarld!");
             System.out.println("Helgffgddjgdgdagghhlol world!");
             System.out.println("Helgffgddjfdsdshfhfggdagghfdddhggfdlol world!");
-            System.out.println("Helgffgddjdfdsfgvcvxcgdfffddsfdsdsfdsddjaggfhhdfdhddhlgol world!");
+            System.out.println("Helgffgddjdfdsfgvcvxfsfsdcgdfffddsfdsdsfdsddjaggfhhdfdhddhlgol world!");
             System.out.println("Helgfffdsdhhsfhgddjggdjaggfhhdfdhddhlgol world!");
         }
     }
