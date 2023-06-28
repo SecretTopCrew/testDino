@@ -4,8 +4,8 @@ public class Main {
         System.out.println("Helgffgddjggdagghfdddhggfdlol world!dddd");
         System.out.println("Helgffgddjggdjaggfdfdhddhlgol world4ddd4!");
         System.out.println("Helgffgddjggdjhhhaggfdfdhddhlgol world44!");
-        System.out.println("Helgffgddjggdjaggfhhdfdhddhlgol world44!");
-        System.out.println("Helgffgddjggdjaggfdfffdhddghgfhlgol world44!");
-        System.out.println("Helgffgddjggdjaggfdfdhddhlgol worlffffd44!");
+        System.out.println("Helgffgddjggdjsfdsaggfhhdfdhddhlgol world44!");
+        System.out.println("Helgffgddjggdjfdsfsdaggfdfffdhddghgfhlgol world44!");
+        System.out.println("Helgffgddjggfdsfdjaggfdfdhddhlgol worlffffd44!");
     }
 }
