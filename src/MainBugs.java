@@ -1,6 +1,6 @@
-public class MainBanditos {
+public class MainBugs {
     public static void main(String[] args) {
-        System.out.println("Diczzxcddno sadsadsgddaddasdsa");
+        System.out.println("dsadsadsaa");
         System.out.println("Letic");
         System.out.println("Helgffgddjggdagggghddhlol world!");
     }
