@@ -1,4 +1,4 @@
-package zuza;
+package DinoIsNice;
 
 public class test {
 }
