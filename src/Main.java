@@ -1,11 +1,11 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Helgffgddjdasdsadgghhlol world!");
-        System.out.println("Helgffgfdsfdsfddjggdagghfdddhggfdlol world!dddd");
-        System.out.println("test5");
-        System.out.println("testB");
-        System.out.println("test3");
-        System.out.println("test2");
-        System.out.println("testX");
+        System.out.println("Helgffgddjdagghhlol world!");
+        System.out.println("Helgffgddjggdagghfdddhggfdlol world!dddd");
+        System.out.println("Helgffgddjggdjcxxzcaggfdfdhddhlgol world4ddd4!");
+        System.out.println("Helgffgddjggdjagczczxcgfdddfdhddhlgol world44!");
+        System.out.println("Helgffgcxzcxzddjggdjasdsadggccfdfdhddhlgol world44!");
+        System.out.println("Helgffgddjggdvxvccxvaggcxzczfdfdhddhlgol world44!");
+        System.out.println("Helgffgddjggdjaggfdfdhddhlgol worlffffd44!");
     }
 }
