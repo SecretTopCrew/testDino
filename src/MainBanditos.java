@@ -1,7 +1,7 @@
 public class MainBanditos {
     public static void main(String[] args) {
-        System.out.println("Diczzcxvcxcxzxcddno sadsadsgddaddasdsa");
-        System.out.println("Letcxfdsfdssvxcic");
-        System.out.println("dd worfsdffsdvccxld!");
+        System.out.println("DiczzcxvcxZXxcxzxcddno sadsadsgddaddasdsa");
+        System.out.println("LetcxfdsfdssxZXvxcic");
+        System.out.println("dd worfsdxzxcffsdvccxld!");
     }
 }
