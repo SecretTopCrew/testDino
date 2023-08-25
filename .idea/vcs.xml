@@ -5,6 +5,9 @@
       <inspection_tool class="BodyLimit" enabled="true" level="WARNING" enabled_by_default="true">
         <option name="RIGHT_MARGIN" value="30" />
       </inspection_tool>
+      <inspection_tool class="SubjectLimit" enabled="true" level="WARNING" enabled_by_default="true">
+        <option name="RIGHT_MARGIN" value="75" />
+      </inspection_tool>
     </profile>
   </component>
   <component name="GitSharedSettings">
