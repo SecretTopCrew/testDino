@@ -3,8 +3,6 @@ public class Main {
         System.out.println("Helgffgddjdagghhlol world!");
         System.out.println("Helgffgddjggdagghfdddhggfdlol world!dddd");
         System.out.println("Helgffgddjggdjcxxzcaggfdfdhddhlgol world4ddd4!");
-        System.out.println("Helgffgddjggdjagczccxzczxcgfczczxdddfdhddhlgol world44!");
-        System.out.println("Helgffgczczxxzcxzddjggdjasdsadggccfdfdhddhlgol world44!");
         System.out.println("Helgffgddjggdczzxjagczccxzczxcgfczczxdddfdhddhlgol world44!");
         System.out.println("Helgffgczczxxzxczxxzcxzddjggdjasdsadggccfdfdhddhlgol world44!");
         System.out.println("Helgffgddjggdvxvccxvaggcxzczfdfdhddhlgol world44!");
