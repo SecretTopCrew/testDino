@@ -1,0 +1,3 @@
+[submodule "Submodulino"]
+	path = Submodulino
+	url = https://github.com/borrean/dinoduta.git
