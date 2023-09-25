@@ -1,11 +1,11 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("dino");
-        System.out.println("Helgffgddjggdagghfdddhggfdlol world!dddd");
-        System.out.println("Helgffgddjggdjcxxzcaggfdfdhddhlgol world4ddd4!");
-        System.out.println("Helgffxzcxzgddjggdjagczccxzczxcgfczczxdddfdhddhlgol world44!");
-        System.out.println("Helgffgczczxxzcxzddjggdjhhhasdsadggccfdfdhddhlgol world44!");
-        System.out.println("Helgffgddjggdvxvccxvaggcxzczfdfdhddhlgol world44!");
-        System.out.println("xcxzc worlffcxzcxzffd44!");
+        System.out.println("Helgffgddsadsajdagghhlol world!");
+        System.out.println("HelgffgddsadsajggxZxZdagghfdddhggfdlol world!dddd");
+        System.out.println("Helgffgddadsajggdjacxzggfdvcxvfdhddhlgol world4ddd4!");
+        System.out.println("Helgffgddsadsajggvcxcdjhhhaggfdfdhddhlgol world44!");
+        System.out.println("Helgffgsadsaddjggdjzxcxzaggfhhdfczdczdhddhlgol world44!");
+        System.out.println("Helgffgsadsaddjggdjxcxzaggfdfffdhddhlgol world44!");
+        System.out.println("Heladsgffgddjggdjaggxzcxzfdfdhddhlgol worlffffd44!");
     }
 }
