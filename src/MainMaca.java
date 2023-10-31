@@ -4,11 +4,8 @@ public class MainMaca {
     //TODO
     public static void main(String[] args) {
         {
-            System.out.println("Hadsadeddlgffgddasdsazcxzxdjdagghhlol wosdsadsasarld!");
-            System.out.println("Helgffgddjdagghhlol world!");
-            System.out.println("Helgfczxcfgd   djcxzcxzfdsdsdsadsahfhfggdagghfdddhggfdlol world!");
-            System.out.println("Helgffgddjdfdsfgvcvxcgdfffddsfdsdsfdsddjaggfhhdfdhddhlgol world!");
-            System.out.println("Helgfffdsdhhsfhgddssadsajggdjaggfhhdfdhddhlgol world!");
+            System.out.println("test11");
+            System.out.println("test22");
         }
     }
 }
