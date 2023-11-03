@@ -6,7 +6,7 @@ public class MainMaca {
         {
             System.out.println("Move thifs");
             System.out.println("Do not fsdsdmove");
-            System.out.println("Move this tfsdoo");
+            System.out.println("Move this tfsffdoo");
         }
     }
 }
