@@ -4,8 +4,9 @@ public class MainMaca {
     //TODO
     public static void main(String[] args) {
         {
-            System.out.println("test1116");
-            System.out.println("test22777");
+            System.out.println("Move this");
+            System.out.println("Do not fsdsdmove");
+            System.out.println("Move this tfsdoo");
         }
     }
 }
