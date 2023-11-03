@@ -6,7 +6,7 @@ public class MainMaca {
         {
             System.out.println("Move this 2");
             System.out.println("Do not move");
-            System.out.println("Move this too");
+            System.out.println("Move this too 2");
         }
     }
 }
