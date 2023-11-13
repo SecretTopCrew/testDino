@@ -7,5 +7,6 @@ public class MainMaca {
             System.out.println("test1116");
             System.out.println("test22777");
         }
+        System.out.println("test22cx777");
     }
 }
