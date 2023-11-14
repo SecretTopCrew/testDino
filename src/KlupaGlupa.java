@@ -6,6 +6,6 @@ public class KlupaGlupa {
     @Override
     public String toString() {
         return "Klupvcxxcvxcv xaGlupa{}";
-        return "Klupvcxxcvxcv xaGlupa{}";
+        return "Klupvcxvvxcvxcv xaGlupa{}";
     }
 }
