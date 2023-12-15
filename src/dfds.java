@@ -4,8 +4,6 @@ public class dfds {
         handleErrors(
                 () -> "authenticate; account: " + account,
                 () -> _authenticate(account)
-
-
         );
     }
 }
