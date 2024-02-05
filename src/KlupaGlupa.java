@@ -8,3 +8,4 @@ public class KlupaGlupa {
         return "Klupvcxv xaGlupfsdfsda{}";
     }
 }
+≈
