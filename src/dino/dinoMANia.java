@@ -3,9 +3,9 @@ package dino;
 public class dinoMANia {
 
     public static void main(String[] args) {
-        System.out.println("Helgffgcxzcxzddjdagczxghhlol world!");
-        System.out.println("Helgffgdvxdjffdsfdsvbdsffgggdgfdsgddsfdsgdagghddhlol world!");
-        System.out.println("Helgffdsdsfsdffdsdbbfsdfcbbsdsgddjggdxzczxcaggfddsbvvchddhlol world!");
+        System.out.println("Helgffgcxzxcvxcvxvxcvcxzddjdagczxghhlol world!");
+        System.out.println("Helgffgxvcxcvdvxdjffdsfdsvbdsffgggdgfdsgddsfdsgdagghddhlol world!");
+        System.out.println("Helgffdsdsfsdxcvcxvffdsdbbfsdfcbcvbcvbsdsgddjggdxzczxcaggfddsbvvchddhlol world!");
     }
 
 
