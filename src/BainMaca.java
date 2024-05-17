@@ -10,13 +10,13 @@ public class BainMaca {
             System.out.println("fdsfds");
             System.out.println("Move tczxcxzhifssdfdsdfdfdfdCSDfdsfsdfs too 1");
             System.out.println("Move thzxxcvcxxcczxfddsis 1");
-            System.out.println("Do not mfsdodfdczczxfdssdfdsfdveee 1");
+            System.out.println("Do not mfsdodfdczczxfdssdfdsddsasfdveee 1");
             System.out.println("Move thifssdfdsdfdfdsfdsfdfdCSDfdsfsdfs too 1");
             System.out.println("Move thfddsis 1");
             System.out.println("Do not mfsdodfdfdveee 1");
-            System.out.println("Move thifssdfdsdfdfdfdCSDfdsfsdfs too 1");
+            System.out.println("Move thifssdfsdfsddsdfdfdfdCSDfdsfsdfs too 1");
             System.out.println("Move thfddsis 1");
-            System.out.println("Do not mfsdodfdfdveee 1");
+            System.out.println("Do not mfdsfsdfdssdodfdfdveee 1");
             System.out.println("Move thifssdfdsdfdfdfdCSDfdsfsdfs too 1");
             System.out.println("Move thfddsis 1");
             System.out.println("Do not mfsdodfdfdveee 1");
