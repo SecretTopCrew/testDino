@@ -8,7 +8,7 @@ public class BainMaca {
 
             //TODO
             System.out.println("fdsfds");
-            System.out.println("Move tczxcxzhifssdfdsdfdfdfdCSDfdsfsdfs too 1");
+            System.out.println("Move tczxcxzhifsssdsdadfdsdfdfdfdCSDfdsfsdfs too 1");
             System.out.println("Move thzxxcvcxxcczxfddsis 1");
             System.out.println("Do not mfsdodfdczczxfdssdfdsddsasfdveee 1");
             System.out.println("Move thifssdfdsdfdfdsfdsfdfdCSDfdsfsdfs too 1");
