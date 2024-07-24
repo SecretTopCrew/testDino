@@ -11,12 +11,12 @@ public class dinonino {
         System.out.println("HelgffgddsadsajggxZxZdxzxzcxzagghfdddhggfdlol world!dddd");
         System.out.println("Helgffgddadsajgczxcgdjacxzggfdvcxvfdhddhlgol world4ddd4!");
         System.out.println("HelgffgddsadsajghhgwrwXvcxcdjhhhaggfdfdhddhlgol world44!");
-        System.out.println("Helgffgsadsaddjggdjzxcxzaggfhhdfczdczdhddhlgol world44!");
+        System.out.println("Helgffgsadsaddjggdccjzxcxzaggfhhdfczdczdhddhlgol world44!");
         System.out.println("Helgffgsadsaddjgwerewgzxcxzcdjxcxzaggfdfffdhddhlgol world44!");
         System.out.println("Heladsgffgddjggzxczsdjaggxzcxzfdfdhddhlgol worlffffd44!");
         System.out.println("Helgffgddsawerwedsajdagghhlol world!");
         System.out.println("HelgffgddsadsajggxZxZdagghfdddhggfdlol world!dddd");
-        System.out.println("Helgffgddadsajggdjacxzggfdvcxvfdhddhlgol world4ddd4!");
+        System.out.println("Helgffgddadsajggcccjacxzggfdvcxvfdhddhlgol world4ddd4!");
         System.out.println("HelgffgddsadsajggzxzxcxcwrwXvcxcdjhhhaggfdfdhddhlgol world44!");
         System.out.println("Helgffgsadsaddjggdjzxcxzaggfhhdfczdczdhddhlgol world44!");
         System.out.println("Helgffgsadsaddjgwerewgdjxcxzaggfdfffdhddhlgol world44!");
