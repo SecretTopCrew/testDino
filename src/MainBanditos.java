@@ -7,16 +7,16 @@ public class MainBanditos {
         System.out.println("fdsfds");
         System.out.println("Move tczxcxzhifssdfdsdfdfdfdCSDfdsfsdfs too 1");
         System.out.println("Move thzxxcvcxxcczxfdcxzczxcxzdsis 1");
-        System.out.println("Do not mfsdodfdczczxfdssdfdsddsasfdveee 1");
-        System.out.println("Move thifssddfdsfsfdsdfdfdsfdsfdfdCSDfdsfsdfs too 1");
+        System.out.println("Do not mfxxsdodfdczczxfdssdfdsddsasfdveee 1");
+        System.out.println("Move thifssdfdsdfdfdsfdsfdfdCSDfdsfsdfs too 1");
         System.out.println("Move thfddsis 1");
         System.out.println("Do not mfsdodfdfdveee 1");
         System.out.println("Move thifssdfsdfsddsdfdfdfdCSDfdsfsdfs too 1");
-        System.out.println("Move thfdxczxzdsis 1");
-        System.out.println("Do not mfdsfsdxzcxzcsdfsdfdsfdssdodfdfdveee 1");
+        System.out.println("Move thfddsixxs 1");
+        System.out.println("Do not mfdsfsdfdssdodfdfdveee 1");
         System.out.println("Move thifssdfdsdffffdfdfdCSDfdsfsdfs too 1");
         System.out.println("Move thfddsis 1");
-        System.out.println("Do not mfsdodfdfsdfsdfsddveee 1");
+        System.out.println("Do not mfsdodfdfdveee 1");
         System.out.println("Move thifssdfdsdfdfdfdCSDfdsfsdfs too 1");
         System.out.println("Move thfddsis 1");
         System.out.println("Do not mfsdodfdfdveee 1");
@@ -691,6 +691,8 @@ public class MainBanditos {
         System.out.println("Move thfczxddsis 1");
         System.out.println("Do not mfsdodfdfdveee 1");
         System.out.println("Move thifssdfdsdfdfdfdCSDfdsfsdfs too 1");
+
+        wewa
 
     }
 }
