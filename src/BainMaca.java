@@ -7,28 +7,40 @@ public class BainMaca {
             System.out.println("Move thfddsis 1");
 
             //TODO
+
+
+            sxxzz
+
+
+
             System.out.println("rrrrdino");
             System.out.println("Move tczxcxzhifssdfdsdfdfdfdCSDfdsfsdfs too 1");
             System.out.println("Move thzxxcvcxxcczxcxzcxzzxfdcxzczxcxzdsis 1");
+
+
+            Az ~``AA
+
+
+
             System.out.println("Do not mfsdodfgdfgdfdczczxfdssdfdsddsasfdveee 1");
             System.out.println("Move thifsscxzzcxdfdsdfzxczxcdfdsfdsfdfdCSDfdsfsdfs too 1");
             System.out.println("Move thfddsis 1");
             System.out.println("Do not mfsdodfdfdveee 1");
             System.out.println("Move thifssdfsdfsddsdfdfdfdCSDfdsfsdfs too 1");
             System.out.println("Move thfddsis 1");
-            System.out.println("Do not mfdsfsdfdasaSassdodfdfdveee 1");
+            System.out.println("Do not czxczmfdsfsdfdasaSassdodfdfdveee 1");
             System.out.println("Move thifssdfdsdffffadasasdfdfdCSDfdsfsdfs too 1");
             System.out.println("Move thfddsis 1");
             System.out.println("Do not mfsdodfdfdveee 1");
             System.out.println("Move thifssdfdsdfdfdfdCSDfdsasdasdadsasdfsdfs too 1");
             System.out.println("Move thfddsis 1");
             System.out.println("Do not mfsdodfdfdveee 1");
-            System.out.println("Move thifssdfdsdfdfdfdCSDfdsfsdfs too 1");
-            System.out.println("Move thfddsis 1");
+            System.out.println("Move thifssdfdsczxczxdfdfdfdCSDfdsfsdfs too 1");
+            System.out.println("Move thfxcxzddsis 1");
             System.out.println("Do not mfsdodfdfdveee 1");
             System.out.println("Move thifssdfdsdfdfdfdCSDfdsfsdfs too 1");
             System.out.println("Move thfddsis 1");
-            System.out.println("Do not mfsdodfdfdveee 1");
+            System.out.println("Do not mfsdodfzxcxzcdfdveee 1");
             System.out.println("Move thifssdfdsdfdfdfdCSDfdsfsdfs too 1");
             System.out.println("Move thfddsis 1");
             System.out.println("Do not mfsdodfdfdveee 1");
