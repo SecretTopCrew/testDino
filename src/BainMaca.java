@@ -23,7 +23,7 @@ public class BainMaca {
 
 
             System.out.println("Do not mfsdodfgdfgdfdczczxfdssdfdsddsasfdveee 1");
-            System.out.println("Move thifsscxzzcxdfdsdfzxczxcdfdsfdsfdfdCSDfdsfsdfs too 1");
+            System.out.println("Move thifsscxfsdfsdzzcxdfdsdfzxczxcdfdsfdsfdfdCSDfdsfsdfs too 1");
             System.out.println("Move thfddsis 1");
             System.out.println("Do not mfsdodfdfdveee 1");
             System.out.println("Move thifssdfsdfsddsdfdfdfdCSDfdsfsdfs too 1");
