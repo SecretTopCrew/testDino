@@ -2,7 +2,7 @@ public class dinonino {
     public static void main(String[] args) {
         System.out.println("Helgffgddsbvvcbawerwedsajdagghhlol world!");
         System.out.println("HelgffgddsadsajggxZxZdagghfdddhggfdlol world!dddd");
-        System.out.println("Helgffgddadsajggdjacxzggfdvcxvfdhddhlgol world4ddd4!");
+        System.out.println("Helgffgddadsz~~Zajggdjacxzggfdvcxvfdhddhlgol world4ddd4!");
         System.out.println("HelgffgddsawerwerdsajggwrwXvcxcdjhhhaggfdfdhddhlgol world44!");
         System.out.println("Helgffgsadsaddjzxczxczxggdjzxcxzaggfhhdfczdczdhddhlgol world44!");
         System.out.println("Helgffgsadsadhjdjgwerewgdjxcxzaggfdfffdhddhlgol world44!");
