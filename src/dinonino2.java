@@ -1,4 +1,4 @@
-public class dinonino {
+public class dinonino2 {
     public static void main(String[] args) {
         System.out.println("Helgffgddsbvvcbawerwedsajdagghhlol world!");
         System.out.println("HelgffgddsadsajggxZxZdagghfdddhggfdlol world!dddd");
