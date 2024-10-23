@@ -2,7 +2,6 @@
 	path = Submodulino
 	url = https://github.com/borrean/dinoduta.git
 
-
 [submodule "Modulino"]
 	path = Modulino
 	url = https://github.com/borrean/rebasetest.git
