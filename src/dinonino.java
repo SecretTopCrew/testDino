@@ -116,8 +116,8 @@ public class dinonino {
         System.out.println("Helgffgddadsajggdjacxzggfdvcxvfdhddhlgol world4ddd4!");
         System.out.println("HelgffgddsadsajggwrwXvcxcdjhhhaggfdfdhddhlgol world44!");
         System.out.println("Helgffgsadsaddjggdjzxcxzaggfhhdfczdczdhddhlgol world44!");
-        System.out.println("Helgffgsadsaddjgwerewgdjxcxzaggfdfffdhddhlgol world44!");
-        System.out.println("Heladsgffgddjggdjaggxzcxzfdfdhddhlgol worlffffd44!");
+        System.out.println("Helgffgsadsaddjgwerewgdjxcfsdfsxzaggfdfffdhddhlgol world44!");
+        System.out.println("Heladsgfxdssffgddjggddsfdsfdjaggxzcxzfdfdhddhlgol worlffffd44!");
 
 
         System.out.println("Helgffgddsawerwedsajdagghhlol world!");
